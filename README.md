@@ -3,7 +3,7 @@
 An interactive, real-time Financial and Forex Analytics Dashboard built using **Python, Streamlit, Pandas, and NumPy**. This application fetches live currency and financial data directly from Yahoo Finance (`yfinance`) and computes technical indicators to generate automated trading signals.
 
 ## 🚀 Live Demo
-🔗 **[View Live Dashboard](https://student-performance-analytics-dashboard-app.streamlit.app/)** 
+🔗 **[View Live Dashboard](https://currency-app-byrakesh.streamlit.app/)** 
 
 ---
 
